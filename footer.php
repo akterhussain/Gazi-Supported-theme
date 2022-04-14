@@ -62,7 +62,7 @@
 								<li><i class="fas fa-envelope"></i><a href="mailto:admin@gaziakter.com"> admin@gaziakter.com</a></li>
 								<li><i class="fas fa-phone"></i><a href="tel:008801568826898"> ++8801568-826898</a></li>
 								<li><i class="fab fa-skype"></i><a href="skype:live:.cid.eeae36e2127ad1ba?chat">gaziakterpro@gmail.com</a></li>
-								<li class="li-address"><i class="fas fa-map-marker-alt"></i><span class="address">Gazi Bari, Dhampti Dakkhin Khar, Debidwar, Cumilla - 5333, Bangladesh</span></li>
+								<li class="li-address"><i class="fas fa-map-marker-alt"></i><span class="address">Gazi Bari, Dakkhin Khar, Dhampti, Debidwar, Cumilla - 5333, Bangladesh</span></li>
 							</ul>
 							</nav>
 						</div>
@@ -77,7 +77,7 @@
 	<section class="button-footer">
 		<div class="container">
 			<div class="row">
-				<div class="col-12 col-sm-12 col-md-6 col-xl-6">
+				<div class="col-12 col-sm-12 col-md-4 col-xl-6">
 					<nav class="footer-social">
 						<ul>
 							<li><a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -88,7 +88,7 @@
 						</ul>
 					</nav>
 				</div><!-- .col-xl-6 -->
-				<div class="col-12 col-sm-12 col-md-6 col-xl-6">
+				<div class="col-12 col-sm-12 col-md-8 col-xl-6">
 					<div class="copyright-text">
 						<p>Copyright &copy; 2015 - <?php echo (date('Y')); ?> <a href="https://gaziakter.com/">Gazi Akter.</a> All Rights Reserved.</p>
 					</div><!-- .copyright-text -->

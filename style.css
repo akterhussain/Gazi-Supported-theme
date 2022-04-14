@@ -2354,6 +2354,81 @@ aside.home-sidebar {
 .contact-icon::after {
     right: 0;
 }
+.main-menu{
+	display: none;
+}
+
+.mobile-menu-area{
+    display: block;
+    position: relative;
+}
+
+.site-branding img {
+    width: 130px;
+}
+.home-logo img {
+    width: 150px;
+}
+
+.primary-menu-area {
+    width: 73%;
+    margin: 0;
+}
+.top-search-area {
+    width: 27%;
+}
+
+.mobiile-menu-area{
+	display: none;
+	position: absolute;
+	top: 24px;
+	width: 100%;
+	height: 180px;
+	background: #fff;
+	right: 30px;
+	padding: 20px;
+	-webkit-box-shadow: 0 0 1px #000;
+	        box-shadow: 0 0 1px #000;
+	opacity: 0.9;
+}
+.mobile-menu {
+    position: absolute;
+    top: 40px;
+    right: 0;
+    background: #fff;
+    width: 250px;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 0 1px #000;
+}
+.menu-hide{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background: #000;
+    z-index: -1;
+    top: 0;
+    right: -89px;
+    opacity: 0;
+}
+
+.search-content {
+    width: 300px;
+    height: 110px;
+    right: 0px;
+}
+
+.akter-search-from {
+    width: 345px;
+}
+
+.search-content .search-home .akter-search-from {
+    margin: 10px auto;
+}
+.akter-search-from {
+    width: 260px;
+}
+
 
  }
 
@@ -2364,8 +2439,6 @@ aside.home-sidebar {
 .home-text p {
     padding: 20px 15px;
 }
-
-
 
 .main-menu{
 	display: none;
@@ -2386,7 +2459,7 @@ aside.home-sidebar {
 }
 
 .site-branding img {
-    width: 200px;
+    width: 150px;
 }
 
 .search-area {
@@ -2468,7 +2541,55 @@ aside.home-sidebar {
 .contact-icon::after {
     right: -217px;
 }
+.search-content {
+    width: 450px;
+    height: 200px;
+    right: -28px;
+}
 
+.search-content .search-home .akter-search-from {
+    margin: 50px auto;
+}
+.akter-search-from {
+    width: 345px;
+}
+.mobile-menu-area{
+    display: block;
+    position: relative;
+}
+
+/*Header Area*/
+.main-menu{
+    display: none;
+}
+.mobile-menu-area{
+    display: block;
+    position: relative;
+}
+.mobile-menu {
+	position: absolute;
+	top: 40px;
+	right: 0;
+	background: #fff;
+	width: 300px;
+	height: auto;
+	border-radius: 4px;
+    box-shadow: 0 0 1px #000;
+
+}
+.menu-hide{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background: #000;
+    z-index: -1;
+    top: 0;
+    right: -89px;
+    opacity: 0;
+}
+.primary-menu-area {
+    margin: 0;
+}
 
 }
 
@@ -2509,7 +2630,6 @@ aside.home-sidebar {
     right: -89px;
     opacity: 0;
 }
-
 
 .primary-menu-area {
     width: 88%;
