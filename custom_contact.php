@@ -9,7 +9,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
- * @package akter_hussain
+ * @package Gazi_Theme
  */
 
 get_header();
@@ -39,10 +39,10 @@ get_header();
 							<div class="contact-over">
 							<div class="contact-icon">
 								<ul>
-								<li><i class="fas fa-envelope"></i><a href="mailto:admin@akterhussain.com"> admin@akterhussain.com</a></li>
-								<li><i class="fas fa-phone"></i><a href="tel:008801783-943225"> ++8801783-943225</a></li>
-								<li><i class="fab fa-skype"></i><a href="skype:live:.cid.eeae36e2127ad1ba?chat">akterdev@gmail.com</a></li>
-								<li class="con-address"><i class="fas fa-map-marker-alt"></i><span class="con-add-text">Gazi Bari, Dhampti Dakkhin Khar, Debidwar, Cumilla - 5333, Bangladesh</span></li>
+								<li><i class="fas fa-envelope"></i><a href="mailto:admin@gaziakter.com"> admin@gaziakter.com</a></li>
+								<li><i class="fas fa-phone"></i><a href="tel:008801568826898"> ++8801568-826898</a></li>
+								<li><i class="fab fa-skype"></i><a href="skype:live:.cid.eeae36e2127ad1ba?chat">gaziakterpro@gmail.com</a></li>
+								<li class="li-address"><i class="fas fa-map-marker-alt"></i><span class="address">Gazi Bari, Dakkhin Khar, Dhampti, Debidwar, Cumilla - 5333, Bangladesh</span></li>
 							</ul>
 							</div><!-- contact-icon -->
 							</div>

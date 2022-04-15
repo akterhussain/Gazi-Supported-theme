@@ -4,7 +4,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/#single-post
  *
- * @package Akter_Hussain
+ * @package Gazi_Theme
  */
 
 get_header();

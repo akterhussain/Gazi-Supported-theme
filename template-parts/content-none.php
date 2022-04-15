@@ -4,14 +4,14 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
- * @package Akter_Hussain
+ * @package Gazi_Theme
  */
 
 ?>
 
 <section class="no-results not-found">
 	<header class="page-header">
-		<h1 class="page-title"><?php esc_html_e( 'Nothing Found', 'akter-hussain' ); ?></h1>
+		<h1 class="page-title"><?php esc_html_e( 'Nothing Found', 'gazi-theme' ); ?></h1>
 	</header><!-- .page-header -->
 
 	<div class="page-content">
@@ -34,7 +34,7 @@
 		elseif ( is_search() ) :
 			?>
 
-			<p><?php esc_html_e( 'Sorry, nothing matched your search terms. Please try again with some different keywords.', 'akter-hussain' ); ?></p>
+			<p><?php esc_html_e( 'Sorry, nothing matched your search terms. Please try again with some different keywords.', 'gazi-theme' ); ?></p>
 			
 			<?php
 			// Template for not found any post

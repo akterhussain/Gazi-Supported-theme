@@ -9,7 +9,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
- * @package akter_hussain
+ * @package Gazi_Theme
  */
 
 get_header();

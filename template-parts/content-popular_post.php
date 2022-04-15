@@ -4,7 +4,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
- * @package Akter_Hussain
+ * @package Gazi_Theme
  */
 
 ?>
@@ -47,7 +47,7 @@
 					<?php wp_reset_postdata(); ?>
 
 				<?php else : ?>
-					<p><?php _e( 'Sorry, Popular Post not available.', 'akter-hussain'); ?></p>
+					<p><?php _e( 'Sorry, Popular Post not available.', 'gazi-theme'); ?></p>
 				<?php endif; ?>
 		</div> <!-- row -->
 	</div><!-- .popular-post-area -->

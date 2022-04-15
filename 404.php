@@ -4,7 +4,7 @@
  *
  * @link https://codex.wordpress.org/Creating_an_Error_404_Page
  *
- * @package Akter_Hussain
+ * @package Gazi_Theme
  */
 
 get_header();
@@ -18,10 +18,10 @@ get_header();
 					<div class="row">
 						<div class="col-xl-12">
 							<header class="page-header">
-								<h1 class="not-title"><?php esc_html_e( 'Oops! That can&rsquo;t be found.', 'akter-hussain' ); ?></h1>
+								<h1 class="not-title"><?php esc_html_e( 'Oops! That can&rsquo;t be found.', 'gazi-theme' ); ?></h1>
 							</header><!-- .page-header -->
 							<div class="not-content">
-								<p><?php esc_html_e( 'It looks like nothing was found at this location. Try it out with the right keyword from search.', 'akter-hussain' ); ?></p>
+								<p><?php esc_html_e( 'It looks like nothing was found at this location. Try it out with the right keyword from search.', 'gazi-theme' ); ?></p>
 								<?php 
 
 								// Template for not found any post

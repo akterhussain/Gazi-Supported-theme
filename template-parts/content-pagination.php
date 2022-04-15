@@ -4,7 +4,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
- * @package Akter_Hussain
+ * @package Gazi_Theme
  */
 
 ?>
@@ -14,8 +14,8 @@
 	the_posts_pagination( array(
 		'screen_reader_text' => __( ' ' ),
 		'mid_size' => 2,
-		'prev_text' => __( '<', 'akter-hussain' ),
-		'next_text' => __( '>', 'akter-hussain' ),
+		'prev_text' => __( '<', 'gazi-theme' ),
+		'next_text' => __( '>', 'gazi-theme' ),
 	) );  
 	?>
 </div><!-- akter-posts-pagination -->
