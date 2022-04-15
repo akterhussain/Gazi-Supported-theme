@@ -22,13 +22,13 @@ get_header();
 				<main class="main-section" >
 					<div class="row">
 						<div class="col-xl-12">
-							<header class="page-header">
+							<header class="page-header service-header">
 								<h1 class="page-title">My Services</h1>
 							</header><!-- page-header -->
 						</div><!-- col-xl-12 -->
 					</div><!-- .row -->	
 					<div class="row">
-						<div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 offset-xl-6 offset-lg-6">
+						<div class="col-12 col-sm-9 offset-sm-3 col-md-7 offset-md-5 col-lg-6 col-xl-6 offset-xl-6 offset-lg-6">
 							<div class="service-text">
 								<ul>
 									<li><i class="fas fa-angle-double-right"></i>WordPress Speed Optimization</li>

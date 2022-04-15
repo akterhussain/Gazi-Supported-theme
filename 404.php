@@ -14,7 +14,7 @@ get_header();
 	<div class="container">
 		<div class="row">
 			<div class="col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8">
-				<main class="main-section">
+				<main class="main-section search-marzine">
 					<div class="row">
 						<div class="col-xl-12">
 							<header class="page-header">

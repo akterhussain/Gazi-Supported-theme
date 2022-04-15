@@ -14,12 +14,9 @@ get_header();
 	<div class="container">
 		<div class="row">
 			<div class="col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8">
-				<main class="main-section">
-					<div class="row">
+				<main class="main-section search-marzine">
 						<?php
 						if ( have_posts() ) : ?>
-
-						<div class="col-xl-12">
 							<header class="page-header">
 								<h1 class="page-title">
 									<?php
@@ -28,10 +25,6 @@ get_header();
 									?>
 								</h1>
 							</header><!-- .page-header -->
-						</div>
-					</div>
-					<div class="row">
-
 						<?php
 						/* Start the Loop */
 						while ( have_posts() ) :
@@ -53,8 +46,6 @@ get_header();
 					endif; 
 
 					?>
-					
-				</div><!-- .row -->
 			</main><!-- .main-section -->
 		</div><!-- col-cl-8 -->
 		<div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
